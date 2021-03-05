@@ -1,12 +1,10 @@
 IMDB APP
 
-
-What I used/learned : 
+What I used:
 Retrofit
 Recycler Views
 RecyclerView Adapter
-
-Manipulated Json files
+JSON files
 
 
 
